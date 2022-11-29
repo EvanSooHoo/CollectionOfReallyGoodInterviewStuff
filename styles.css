@@ -30,9 +30,8 @@ li a:hover {
 .content-table {
     float: left;
     border-collapse: collapse;
-    margin: 25px 0;
     font-size: 0.9em;
-    width: 70%;
+    width: 80%;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -71,8 +70,7 @@ li a:hover {
     border: 3px solid #036;
     background-color: #09C;
     color: #fff;
-    width: 10%;
+    width: 15%;
     padding: .5em;
-    margin-left: auto;
-    margin-right: 50px;
+    float:right;
   }
