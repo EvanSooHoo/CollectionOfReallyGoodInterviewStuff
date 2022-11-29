@@ -105,3 +105,8 @@ li a:hover {
   }
   
 .button1 {border-radius: 12px;}
+
+.button2 {
+    border-radius: 12px;
+    background-color: #FF0000;
+  }
