@@ -68,7 +68,23 @@ li a:hover {
 
 .to-right {
     border: 3px solid #036;
+    background-color: #00FF00;
+    color: #fff;
+    width: 15%;
+    padding: .5em;
+    float:right;
+  }
+  .to-right-light-blue {
+    border: 3px solid #036;
     background-color: #09C;
+    color: #fff;
+    width: 15%;
+    padding: .5em;
+    float:right;
+  }
+  .to-right-red {
+    border: 3px solid #036;
+    background-color: #FF0000;
     color: #fff;
     width: 15%;
     padding: .5em;
