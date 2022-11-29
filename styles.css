@@ -72,21 +72,36 @@ li a:hover {
     color: #fff;
     width: 15%;
     padding: .5em;
-    float:right;
-  }
-  .to-right-light-blue {
+    float: right;
+}
+
+.to-right-light-blue {
     border: 3px solid #036;
     background-color: #09C;
     color: #fff;
     width: 15%;
     padding: .5em;
-    float:right;
-  }
-  .to-right-red {
+    float: right;
+}
+
+.to-right-red {
     border: 3px solid #036;
     background-color: #FF0000;
     color: #fff;
     width: 15%;
     padding: .5em;
-    float:right;
+    float: right;
+}
+.button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
   }
+  
+.button1 {border-radius: 12px;}
