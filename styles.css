@@ -115,3 +115,6 @@ li a:hover {
     border-radius: 12px;
     background-color: #FF0000;
   }
+.github-button {
+    width: 80%
+}
